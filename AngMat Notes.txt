@@ -1,0 +1,6 @@
+
+
+Mar 19
+
+What does “/” , “./”, “../” represent while giving path?
+Root directory, current working directory, and parent directory, respectively.
