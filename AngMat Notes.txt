@@ -4,3 +4,12 @@ Mar 19
 
 What does “/” , “./”, “../” represent while giving path?
 Root directory, current working directory, and parent directory, respectively.
+
+ng new AngMatClone
+npm install --save @angular/material @angular/cdk @angular/animations
+npm install --save hammerjs
+
+ng g c folder/subfolder --module app.module
+
+ng g c home --module app.module
+ng g c components --module app.module
