@@ -1,4 +1,29 @@
 
+Mar 20
+
+Angular and Node.js - The MEAN Stack Guide: Simple app that uploads a blog style comment and image
+Angular 5 completet guide: simple recipe book app BUT served on AWS s3 server
+
+--------------------------------------
+Organic shop
+ng update @angular/cli --migrate-only --from=1.5.0
+npm install
+ng s
+
+-----------------------------------------
+AngMat Clone
+ng g c navigation/header --module app.module
+ng g c navigation/sidenav-list --module app.module
+
+fxFlex fxLayout fxLayoutGap="10px" 
+
+ npm install @angular/flex-layout
+
+ng g c footer --module app.module
+
+https://medium.com/@zerox/keep-that-damn-footer-at-the-bottom-c7a921cb9551
+
+
 
 Mar 19
 
@@ -13,3 +38,5 @@ ng g c folder/subfolder --module app.module
 
 ng g c home --module app.module
 ng g c components --module app.module
+etc.
+

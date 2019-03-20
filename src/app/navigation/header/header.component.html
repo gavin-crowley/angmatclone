@@ -1,0 +1,37 @@
+<mat-toolbar color="primary">
+  <div fxFlex fxLayout fxLayoutAlign="start" fxHide.xs>
+    <ul fxLayout fxLayoutGap="10px" class="navigation-items">
+      <li>
+        <a mat-button routerLink="/">
+          <img alt="angular" class="angular-logo" src="assets/img/logo.svg">
+          Material
+        </a>
+      </li>
+      <li>
+        <a mat-button routerLink="/components">Components</a>
+      </li>
+      <li>
+        <a mat-button routerLink="/cdk">CDK</a>
+      </li>
+      <li>
+        <a mat-button routerLink="/guides">Guides</a>
+      </li>
+    </ul>
+  </div>
+
+  <div fxFlex fxLayout fxLayoutAlign="end">
+    <ul fxLayout fxLayoutGap="10px" class="navigation-items">
+      <li>
+        <a mat-button href="#">
+          <mat-icon>format_color_fill</mat-icon>
+        </a>
+      </li>
+      <li>
+        <a mat-button routerLink="https://github.com/angular/material2">
+          <img alt="github" class="git-logo" src="assets/img/git.svg">
+          Github
+        </a>
+      </li>
+    </ul>
+  </div>
+</mat-toolbar>
