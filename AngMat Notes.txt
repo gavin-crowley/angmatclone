@@ -1,12 +1,43 @@
 
 Mar 20
+Angular - Concepts, Code and Collective Wisdom
+
+
+Brad Traversy Ang front to back
+https://www.udemy.com/angular-4-front-to-back/?pmtag=JULY10310&ranMID=39197&ranEAID=a1o1REVAqJg&ranSiteID=a1o1REVAqJg-y1yQRmwe._7Q7lUgPUUeKA&LSNPUBID=a1o1REVAqJg
+
+Mean stack Chat app, ecommere
+https://learning.oreilly.com/videos/real-world-projects-with/9781789349566/9781789349566-video1_2
+
+Learning Angular 7
+https://learning.oreilly.com/videos/learning-angular-7/9781789804461/9781789804461-video6_5
+Some interesting features
+
+
+
+https://learning.oreilly.com/library/view/building-large-scale-web/9781789959567/caa9c0dd-5bba-470e-a45b-d959b95b7573.xhtml
+Personal trainer app with some interesting functionality
++
+Local Weather app
+
+
+https://learning.oreilly.com/videos/angular-7-a/9781838649296
+Angular 7: A Practical Guide:
+OK CRUD and Auth apps
+
+https://learning.oreilly.com/videos/angular-cli-recipes/9781789959888?autoplay=false
+-> good for testing
+
+https://learning.oreilly.com/videos/hands-on-web-development/9781789807936
+Hands-On Web Development with ASP.NET Core and Angular 7:
+shopping cart and movie admin app
 
 Angular and Node.js - The MEAN Stack Guide: Simple app that uploads a blog style comment and image
 Angular 5 completet guide: simple recipe book app BUT served on AWS s3 server
 
 --------------------------------------
 Organic shop
-ng update @angular/cli --migrate-only --from=1.5.0
+ng update @angular/cli --migrate-only --from=6.0.0
 npm install
 ng s
 
